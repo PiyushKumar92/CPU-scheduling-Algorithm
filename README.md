@@ -1,5 +1,8 @@
 # CPU-Scheduling-Simulator
 
+A Software Engineering project that simulates various CPU scheduling algorithms — an essential concept in Operating Systems. Users can choose from different scheduling techniques such as FCFS, SJF, Priority, and more, input custom data, and visualize how each algorithm processes tasks along with calculating average Waiting Time, Turnaround Time, Burst Time, etc.
+
+
 
 
 ## Overview
