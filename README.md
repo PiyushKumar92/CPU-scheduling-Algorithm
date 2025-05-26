@@ -1,17 +1,6 @@
 # CPU-Scheduling-Simulator
 
-## Table of Contents
-- [Overview](#overview)
-- [Problem Statement](#problem_statement)
-- [Features](#features)
-- [Files and Directories](#files-and-directories)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Example](#example)
-- [Contributing](#contributing)
-- [YouTube Video](#youtube_video)
+
 
 ## Overview
 
@@ -42,19 +31,7 @@ Different CPU scheduling algorithms have unique properties, and choosing the rig
 - Apache Maven (optional, for building the project).
 - A Java IDE (e.g., IntelliJ IDEA, Eclipse) or any text editor with Java support.
 
-### Installation
 
-1. Clone the repository to your local machine using:
-   ```bash
-   git clone https://github.com/ammarlodhi255/cpu-scheduling-simulator.git
-   ```
-   
-2. Navigate to the project directory:
-   ```bash
-   cd cpu-scheduling-simulator
-   ```
-
-3. Open the project in your preferred Java IDE.
 
 ### Usage
 
@@ -73,15 +50,4 @@ Different CPU scheduling algorithms have unique properties, and choosing the rig
   3. Input the number of process.
   4. Click "Start" to see the order of execution and performance metrics.
 
-## Contributing
 
-If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-1. Fork the repository.
-2. Create a new feature branch.
-3. Commit your changes.
-4. Push to the branch.
-5. Submit a pull request.
-
-## YouTube Video
-Video link of project demonstration: https://www.youtube.com/watch?v=Rf6Ec8PjOyg
