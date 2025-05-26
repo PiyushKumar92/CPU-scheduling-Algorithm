@@ -64,4 +64,9 @@ Different CPU scheduling algorithms have unique properties, and choosing the rig
   3. Input the number of process.
   4. Click "Start" to see the order of execution and performance metrics.
 
+**Team Members**
+Piyush Kumar 
+Kartik Kapri
+Mayank Singh
+Kumkum Pandey
 
