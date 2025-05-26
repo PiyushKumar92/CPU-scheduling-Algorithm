@@ -45,6 +45,17 @@ Different CPU scheduling algorithms have unique properties, and choosing the rig
 3. **View Results**:
    - The simulator will display the sequence of process execution and calculate important metrics like waiting time, turnaround time, and CPU utilization.
 
+▶️ Usage
+1. Run the application.
+2. Choose the scheduling algorithm you want to simulate.
+3. Input:
+   a. Number of processes
+   b. Arrival time
+   c. Burst time
+   d. Priority (if applicable)
+4. Click on Start.
+5. View the execution order and computed results.
+
 ### Example
 
 - **Simulating Round Robin Scheduling**:
