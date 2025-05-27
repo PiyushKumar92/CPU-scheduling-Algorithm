@@ -2,6 +2,7 @@ import java.awt.Color;
 import java.io.File;
 import javax.swing.*;
 
+
 public class CalcSimulation extends javax.swing.JFrame {
     Job[] jobBatch;
     int numOfJobs;
