@@ -17,6 +17,8 @@
  * under the License.
  */
 
+
+
 import java.awt.*;
 
 /** AbsoluteLayout is a LayoutManager that works as a replacement for "null" layout to
